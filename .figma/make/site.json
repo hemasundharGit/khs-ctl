@@ -1,0 +1,10 @@
+{
+  "description": "Showcase your cloud and DevOps expertise with a professional portfolio designed to highlight skills, projects, and certifications for career growth.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
