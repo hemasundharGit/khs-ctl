@@ -1286,7 +1286,7 @@ function Contact() {
             // Hema Sundharam Kolla · 2026
           </Mono>
           <Mono className="text-xs" style={{ color: "#222" }}>
-            Built with React · Vite · Tailwind CSS v4
+            Turning ideas into infrastructure.
           </Mono>
         </div>
       </div>
