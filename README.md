@@ -4,7 +4,7 @@
 
 A single-page, terminal/pipeline-themed developer portfolio built with React, TypeScript, Vite, and Tailwind CSS. The site frames the projects on GitHub as stages of a CI/CD pipeline (`Foundation → Build → Deploy → Harden`), alongside skills, work experience, certifications, and technical blog posts.
 
-🔗 Live: [hsctl.in](https://khsctl.vercel.app/) &nbsp;|&nbsp; 📄 Resume: [hsctl.in/resume](https://khsctl.vercel.app/resume)
+🔗 Live: [hsctl.in](https://khsctl.vercel.app/) &nbsp;|&nbsp; 📄 Resume: [hsctl.in/resume](https://khsctl.vercel.app/resume.pdf)
 
 ## ✨ Features
 
